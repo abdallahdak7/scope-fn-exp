@@ -9,6 +9,7 @@ var printRecords = recordIds =>
 			console.log(`${record.name} (${record.id}): ${record.paid ? "Paid" : "Not Paid"}`)
 		);
 
+
 var paidStudentsToEnroll = () =>
 	[ ...currentEnrollment,
 		...(
