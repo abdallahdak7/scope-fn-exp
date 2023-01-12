@@ -1,4 +1,5 @@
 function getStudentFromId(studentId) {
+	
 	return studentRecords.find(function matchId(record){
 		return (record.id == studentId);
 	});
