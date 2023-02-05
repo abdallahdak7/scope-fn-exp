@@ -2,6 +2,7 @@ function printRecords(recordIds) {
 	// TODO
 }
 
+
 function paidStudentsToEnroll() {
 	// TODO
 }
